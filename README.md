@@ -3,7 +3,7 @@
 
 🔭 I’m currently working at weDevs as a Senior WordPress Technical Support Engineer. 
 
-🛠️ I have experience with WooCommerce, Dokan, Dokan Cloud, Happy Addons, WP User Frontend, weDocs, FlyWP, and WooCommerce Conversion Tracking.
+🛠️ I have experience with WooCommerce, Dokan, Dokan Cloud, FlyCommerce, Happy Addons, WP User Frontend, weDocs, FlyWP and Klasio.
 
 🌱 I’m currently learning WP theme & Plugin Development
 
