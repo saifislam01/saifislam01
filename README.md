@@ -5,7 +5,7 @@
 
 🛠️ I have experience with WooCommerce, Dokan, Directorist, HappyAddons, WP User Frontend, FlyCommerce, FlyWP and Klasio.
 
-🌱 I’m currently learning WP theme & Plugin Development
+🌱 I’m currently learning AI-Powered WordPress Development & Support Engineering and automation.
 
 📝 I regularly write articles on https://wpninja01.wordpress.com/
 
