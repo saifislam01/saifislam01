@@ -1,7 +1,7 @@
 # 💫 About Me:
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=48&duration=7000&pause=1000&color=39B2C9&multiline=true&random=false&width=1500&height=80&lines=Hello+there!%F0%9F%91%8B%2C+I'm+Saiful+Islam)](https://git.io/typing-svg)
 
-🔭 I’m currently working at weDevs as a Senior WordPress Technical Support Engineer. 
+🔭 I’m currently working at Head of Support Directorist & SovWare. Previously, I worked at weDevs as a Senior Technical Support Engineer.
 
 🛠️ I have experience with WooCommerce, Dokan, Directorist, HappyAddons, WP User Frontend, FlyCommerce, FlyWP and Klasio.
 
